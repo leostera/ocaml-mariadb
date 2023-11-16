@@ -19,6 +19,5 @@ depends: [
   "ocamlfind" {build}
   "ocamlbuild" {build}
   "ctypes" {>= "0.7.0"}
-  "conf-mariadb"
   "conf-gcc"
 ]
